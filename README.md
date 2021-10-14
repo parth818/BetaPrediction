@@ -3,9 +3,7 @@
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
-
 ![](img1.png)
-
 <h3>Advantages of the CAPM:</h3>
 <p style="text-align: justify;">The CAPM has several advantages over other methods of calculating required return, explaining why it has been popular for more than 40 years:</p>
 <p style="text-align: justify;">1. It considers only systematic risk, reflecting a reality in which most investors have diversified portfolios from which unsystematic risk has been essentially eliminated.</p>
@@ -14,6 +12,10 @@
 <p style="text-align: justify;">4. It is clearly superior to the WACC in providing discount rates for use in investment appraisal</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
+<h3>Input:</h3>
+![](img2.png)
+<h3>Output:</h3>
+![](img3.png)
 <h3>Beta values:</h3>
 <p style="text-align: justify;">A Beta greater than 1 indicates that the security's price will be more volatile than the market and finally, a Beta less than 1 means that it will be less volatile than the market. Beta values can be roughly characterized as follows:</p>
 <p style="text-align: justify;">1. b Less than 0: Negative Beta is possible but not likely. People thought gold stocks should have negative Betas but that hasn't been true. <br /><br />2. b Equal to 0: Cash under your mattress, assuming no inflation! <br /><br />3. b Between 0 and 1: Low-volatility investments (e.g., utility stocks). <br /><br />4. b Equal to 1: Matching the index. <br /><br />5. b Greater than 1: Anything more volatile than the index. <br /><br />6. b Much Greater than 1: Impossible, because the stock would be expected to go to zero on any market decline.</p>
