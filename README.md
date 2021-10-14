@@ -3,7 +3,6 @@
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
-
 ![](img1.png)
 
 <h3>Advantages of the CAPM:</h3>
