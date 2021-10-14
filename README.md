@@ -1,6 +1,5 @@
 <h1 style="text-align: center;">Beta Prediction (CAPM Model)</h1>
 <p style="text-align: justify;"><br />The Capital Asset Pricing Model (CAPM) describes the relationship between systematic risk and expected return for assets, particularly stocks. CAPM is widely used throughout finance for pricing risky securities and generating expected returns for assets given the risk of those assets and cost of capital.</p>
-<p style="text-align: justify;">&nbsp;</p>
 
 ![](img1.png)
 
@@ -9,8 +8,8 @@
 <p style="text-align: justify;">1. It considers only systematic risk, reflecting a reality in which most investors have diversified portfolios from which unsystematic risk has been essentially eliminated.</p>
 <p style="text-align: justify;">2. It is a theoretically-derived relationship between required return and systematic risk which has been subject to frequent empirical research and testing.</p>
 <p style="text-align: justify;">3. It is generally seen as a much better method of calculating the cost of equity than the dividend growth model (DGM) in that it explicitly considers a company&rsquo;s level of systematic risk relative to the stock market as a whole.</p>
-<p style="text-align: justify;">4. It is clearly superior to the WACC in providing discount rates for use in investment appraisal</p>
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">4. It is clearly superior to the WACC in providing discount rates for use in investment appraisal.</p>
+
 <h3>Live Demo Screenshots</h3>
 
 <h3>Input:</h3>
