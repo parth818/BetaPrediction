@@ -3,7 +3,9 @@
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
+
 ![](img1.png)
+
 <h3>Advantages of the CAPM:</h3>
 <p style="text-align: justify;">The CAPM has several advantages over other methods of calculating required return, explaining why it has been popular for more than 40 years:</p>
 <p style="text-align: justify;">1. It considers only systematic risk, reflecting a reality in which most investors have diversified portfolios from which unsystematic risk has been essentially eliminated.</p>
