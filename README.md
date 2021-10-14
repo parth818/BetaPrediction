@@ -2,7 +2,7 @@
 <p style="text-align: justify;"><br />The Capital Asset Pricing Model (CAPM) describes the relationship between systematic risk and expected return for assets, particularly stocks. CAPM is widely used throughout finance for pricing risky securities and generating expected returns for assets given the risk of those assets and cost of capital.</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"></p>
 
 ![](img1.png)
 
@@ -14,6 +14,8 @@
 <p style="text-align: justify;">4. It is clearly superior to the WACC in providing discount rates for use in investment appraisal</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">&nbsp;</p>
+<h3>Live Demo Screenshots</h3>
+
 <h3>Input:</h3>
 
 ![](img2.png)
